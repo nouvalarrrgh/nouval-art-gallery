@@ -6,15 +6,15 @@ You can now explore it [here](https://nouval-art-gallery.app/).
 ## Links
 
 ### Muhammad Nouval Ar-Rizqy's Portfolio
-- [Source Code](https://github.com/nouvalrizqy05-ui/portofolio)
+- [Source Code](https://github.com/nouvalarrrgh/3d-porofolio)
 - [Live Demo](https://muhammadnouvalarrizqy.vercel.app/)
 
 ### Nouval's Arcade Machine
-- [Source Code](https://github.com/nouvalrizqy05-ui/nouval-arcade-machine)
+- [Source Code](https://github.com/nouvalarrrgh/nouval-arcade-machine)
 - [Live Demo](https://nouval-arcade-machine.vercel.app/)
 
 ### Nouval's OS
-- [Source Code](https://github.com/nouvalrizqy05-ui/nouval-os)
+- [Source Code](https://github.com/nouvalarrrgh/nouval-os)
 - [Live Demo](https://nouval-os.vercel.app/)
 
 ## Setup
